@@ -1,0 +1,11 @@
+D:\ProjetoCSharp\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.csproj.AssemblyReference.cache
+D:\ProjetoCSharp\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.csproj.SuggestedBindingRedirects.cache
+D:\ProjetoCSharp\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.Form1.resources
+D:\ProjetoCSharp\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.Properties.Resources.resources
+D:\ProjetoCSharp\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.csproj.GenerateResource.cache
+D:\ProjetoCSharp\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.csproj.CoreCompileInputs.cache
+D:\ProjetoCSharp\CSharpIntermediario\CSharp-Intermediario\Aula30\bin\Debug\Aula30.exe.config
+D:\ProjetoCSharp\CSharpIntermediario\CSharp-Intermediario\Aula30\bin\Debug\Aula30.exe
+D:\ProjetoCSharp\CSharpIntermediario\CSharp-Intermediario\Aula30\bin\Debug\Aula30.pdb
+D:\ProjetoCSharp\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.exe
+D:\ProjetoCSharp\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.pdb
